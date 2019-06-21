@@ -1,4 +1,11 @@
-# Project Start Template
+# Personal Website Project
+
+This respository was created as a way to expand on my skills in HTML | CSS | Javascript.
+<br>
+
+
+-------------------------------------------------------------------------------------
+# Project Start Template Used
 
 This repository was created as a starting point for all future projects using git.
 It was designed so that the follow features could be implemented immediatly for a new project, rather than initializing each time.
