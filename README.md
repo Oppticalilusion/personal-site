@@ -3,6 +3,8 @@
 This respository was created as a way to expand on my skills in HTML | CSS | Javascript.
 <br>
 
+Started June 2019
+
 
 -------------------------------------------------------------------------------------
 # Project Start Template Used
