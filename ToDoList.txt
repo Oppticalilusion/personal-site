@@ -8,12 +8,11 @@ Started June 2019
 
 -------------------------------------------------------------------------------------
 
-Monday July 8th:
+Tuesday July 9th:
 - Img Compression
 - Build Navigation styling
 - Finish all tempalate pages ( Headers and Footers )
 - Find some examples to work with for styling
-Tuesday July 9th:
 - Do some writing
 	- About Me
 	- About Kilimanjaro
