@@ -456,6 +456,26 @@ template {
 
 /* Global styling will exist here */
 
+p {
+	font-size: 1rem;
+}
+
+a {
+	text-decoration: none;
+}
+
+.main-header-nav {
+	font-weight: 300;
+	text-decoration: none;
+	display: block;
+	padding: 5px 8px;
+}
+
+.main-header-nav li {
+		display: inline-block;
+		padding: 1rem 1rem 1rem 1rem;
+	}
+
 /* All styling will exist based on classes in the modules folder */
 
 /* Allows for each styleing to exist in its own place for easy and well */

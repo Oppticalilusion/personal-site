@@ -5,6 +5,8 @@
 @import "base/_mixins";
 @import "base/_global";
 
+@import "modules/_main-header-nav";
+
 /* All styling will exist based on classes in the modules folder */
 /* Allows for each styleing to exist in its own place for easy and well */
 /* managed code structure */
