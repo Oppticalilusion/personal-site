@@ -8,19 +8,19 @@ Started June 2019
 
 -------------------------------------------------------------------------------------
 
-Monday July 8th:
 - Img Compression
+
 - Build Navigation styling
+
 - Finish all tempalate pages ( Headers and Footers )
+
 - Find some examples to work with for styling
-Tuesday July 9th:
+
 - Do some writing
 	- About Me
 	- About Kilimanjaro
 	- What are things that I like
-Wednesday July 10th:
+	
 - Look up embeding a flash game into the browser
 	- Write down stuff about it
 	- Save websites with useful tips
-Thursday July 11th:
-- Take a night off!
