@@ -9,6 +9,7 @@
 @import "modules/_wrapper-footer";
 @import "modules/_adventures-content";
 @import "modules/_about-me-img";
+@import "modules/_main-body-content";
 
 /* All styling will exist based on classes in the modules folder */
 /* Allows for each styleing to exist in its own place for easy and well */
