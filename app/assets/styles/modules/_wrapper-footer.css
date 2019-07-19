@@ -1,0 +1,15 @@
+.wrapper-footer {
+	font-weight: 300;
+	text-decoration: none;
+	display: block;
+	padding: 5px 8px;
+
+	li {
+		display: inline-block;
+		padding: 1rem 10rem 1rem 1rem;
+	}
+
+	.footer-centered {
+		text-align: center;
+	}
+}

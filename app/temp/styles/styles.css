@@ -476,6 +476,22 @@ a {
 		padding: 1rem 1rem 1rem 1rem;
 	}
 
+.wrapper-footer {
+	font-weight: 300;
+	text-decoration: none;
+	display: block;
+	padding: 5px 8px;
+}
+
+.wrapper-footer li {
+		display: inline-block;
+		padding: 1rem 10rem 1rem 1rem;
+	}
+
+.wrapper-footer .footer-centered {
+		text-align: center;
+	}
+
 /* All styling will exist based on classes in the modules folder */
 
 /* Allows for each styleing to exist in its own place for easy and well */

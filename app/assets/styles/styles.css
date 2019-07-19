@@ -6,6 +6,7 @@
 @import "base/_global";
 
 @import "modules/_main-header-nav";
+@import "modules/_wrapper-footer";
 
 /* All styling will exist based on classes in the modules folder */
 /* Allows for each styleing to exist in its own place for easy and well */
