@@ -505,6 +505,13 @@ a {
 		display: inline-block;
 	}
 
+.about-me-img {
+	max-width: 650px;
+	max-height: 600px;
+
+	padding-left: 3rem;
+}
+
 /* All styling will exist based on classes in the modules folder */
 
 /* Allows for each styleing to exist in its own place for easy and well */
