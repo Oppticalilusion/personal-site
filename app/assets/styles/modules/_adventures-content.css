@@ -1,0 +1,12 @@
+.adventures-content {
+	font-weight: 300;
+	text-decoration: none;
+	display: block;
+	padding: 5px 8px;
+
+	li {
+		list-style: none;
+		padding: 6rem;
+		display: inline-block;
+	}
+}

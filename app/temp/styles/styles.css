@@ -492,6 +492,19 @@ a {
 		text-align: center;
 	}
 
+.adventures-content {
+	font-weight: 300;
+	text-decoration: none;
+	display: block;
+	padding: 5px 8px;
+}
+
+.adventures-content li {
+		list-style: none;
+		padding: 6rem;
+		display: inline-block;
+	}
+
 /* All styling will exist based on classes in the modules folder */
 
 /* Allows for each styleing to exist in its own place for easy and well */
