@@ -7,6 +7,7 @@ Started June 2019
 
 
 -------------------------------------------------------------------------------------
+Next Steps:
 
 - Img Compression
 
@@ -24,3 +25,10 @@ Started June 2019
 - Look up embeding a flash game into the browser
 	- Write down stuff about it
 	- Save websites with useful tips
+
+- Picture wheel for adventures page
+
+------------------------------------------------------------------
+Vulnerabilities:
+
+- Gulp updates to 4.0. Need to look into this.
