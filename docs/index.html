@@ -6,40 +6,40 @@
 <html lang="en-CA">
 	<head>
   		<meta charset="utf-8">
-  		<title> Personal Website Project </title>
+  		<title> Home Page - Personal Website Project </title>
   		<meta name="description" content="A place to practice my web skills, and talk about what i love">
  		<meta name="author" content="Kevan Rayner">
 
- 		<link rel="stylesheet" href="assets/styles/styles-b3980f9f45.css"/>
+ 		<link rel="stylesheet" href="assets/styles/styles-ab85074c65.css"/>
 
 		<script src="assets/scripts/Vendor-bad215e9ae.js"></script>
 
 	</head> 
 
 <body> 
-
 	<!-- This is the Header Bar Section -->
-	<h1> Kevan Rayner </h1>
-
-	<!-- Navigation Bar -->
-	<ul>
-		<li>Home</li>
-		<li>About Me</li>
-		<li>Adventures</li>
-		<li>Projects</li>
-	</ul>
-	<!-- End of Navigation Bar -->
+	<div class="main-header-nav">
+		<!-- Navigation Bar -->
+		<ul>
+			<li><h1> Kevan <br> Rayner </h1></li>
+			<li><a href="index.html" id="home-link">Home</a></li>
+			<li><a href="about_me.html" id="about_me-link">About Me</a></li>
+			<li><a href="adventures.html" id="adventures-link">Adventures</a></li>
+			<li><a href="projects.html" id="projects-link">Projects<a/></li>
+		</ul>
+		<!-- End of Navigation Bar -->
+	</div>
 
 	<!-- End of Header Bar -->
 
 	<!-- Page Content -->
+	<div class="main-body-content">
+		<h3> Who am I </h3>
 
-	<h3> Who am I </h3>
+		<h3> Adventures </h3>
 
-	<h3> Adventures </h3>
-
-	<h3> Projects </h3>
-	
+		<h3> Projects </h3>
+	</div>
 	<!-- End of Page Content Section -->
 
 
@@ -47,9 +47,18 @@
 
 	<footer class="site-footer">
 		<div class="wrapper">  <!-- Used for styling -->
-			<p>Kevan Rayner</p>
-			<p>Computer Programmer Analyst</p>
-			<p> 905-616-4115</p>
+			<div class="wrapper-footer">
+			<ul>
+				<li></li>
+				<li>
+					<p class="footer-centered">Kevan Rayner</p>
+					<p class="footer-centered">Computer Programmer <br> Analyst</p>
+				</li>
+				<li>
+					<p> 905-616-4115</p>
+				</li>
+			</ul>
+			</div>
 		</div>
 	</footer>
 
