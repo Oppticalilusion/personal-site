@@ -21,12 +21,17 @@ Next Steps:
 	- About Me
 	- About Kilimanjaro
 	- What are things that I like
+	- What inspires me
 	
 - Look up embeding a flash game into the browser
 	- Write down stuff about it
 	- Save websites with useful tips
 
-- Picture wheel for adventures page
+- Picture wheel for adventures page??
+  - Horizontal / Vertical
+  - Interactive?
+
+- Colors!
 
 ------------------------------------------------------------------
 Vulnerabilities:
