@@ -33,6 +33,11 @@ Next Steps:
 
 - Colors!
 
+- Styling:
+	- Conventions
+	- How seperation is planned
+	- Keeping Master clean and precise
+
 ------------------------------------------------------------------
 Vulnerabilities:
 
