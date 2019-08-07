@@ -2,8 +2,13 @@
 
 p {
 	font-size: 1rem;
+	color: $mainWhite;
 }
 
 a {
 	text-decoration: none;
+}
+
+body {
+	background-color: $mainBlue;
 }
