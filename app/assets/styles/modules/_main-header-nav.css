@@ -11,12 +11,14 @@
 	}
 
 	&__title {
-		width: 35%;
+		width: 20%;
 	}
 
 	&__link {
 		color: $mainWhite;
 		text-decoration: none;
-		width: 15%;
+		width: 18%;
+		font-weight: bold;
+		text-align: center;
 	}
 }

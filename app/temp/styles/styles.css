@@ -486,13 +486,15 @@ body {
 	}
 
 .main-header-nav__title {
-		width: 35%;
+		width: 20%;
 	}
 
 .main-header-nav__link {
 		color: #F9F9F9;
 		text-decoration: none;
-		width: 15%;
+		width: 18%;
+		font-weight: bold;
+		text-align: center;
 	}
 
 .wrapper-footer {
