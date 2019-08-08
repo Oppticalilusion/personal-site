@@ -468,19 +468,31 @@ a {
 }
 
 body {
-	background-color: #0E6B72;
+	background-color: #11516C;
 }
 
 .main-header-nav {
 	font-weight: 300;
 	text-decoration: none;
 	display: block;
-	padding: 5px 8px;
+	width: 100%;
+	overflow: auto;
 }
 
 .main-header-nav li {
+		font-size: 18px;
 		display: inline-block;
-		padding: 1rem 1rem 1rem 1rem;
+		/*padding: 1rem 1rem 1rem 1rem;*/
+	}
+
+.main-header-nav__title {
+		width: 35%;
+	}
+
+.main-header-nav__link {
+		color: #F9F9F9;
+		text-decoration: none;
+		width: 15%;
 	}
 
 .wrapper-footer {
