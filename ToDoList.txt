@@ -3,9 +3,6 @@
 This respository was created as a way to expand on my skills in HTML | CSS | Javascript.
 <br>
 
-Started June 2019
-
-
 -------------------------------------------------------------------------------------
 Next Steps:
 
@@ -42,3 +39,12 @@ Next Steps:
 Vulnerabilities:
 
 - Gulp updates to 4.0. Need to look into this.
+
+
+------------------------------------------------------------------
+Goals:
+
+- To be able to talk about and share the journeys I have gone on
+- Express my love of adventure, sport and the outdoors
+- Show my skills as a web developer
+- Expand on my web knowledge
