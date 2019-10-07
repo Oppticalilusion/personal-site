@@ -37,6 +37,11 @@ Next Steps:
 	- How seperation is planned
 	- Keeping Master clean and precise
 
+- Documentation:
+    - Design a system
+    - Create a txt document
+    - Build a when to update system (quartly, monthly, etc.)	
+
 ------------------------------------------------------------------
 Vulnerabilities:
 
