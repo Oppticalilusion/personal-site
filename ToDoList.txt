@@ -21,14 +21,16 @@ Next Steps:
 	- What inspires me
 	
 - Look up embeding a flash game into the browser
-	- Write down stuff about it
-	- Save websites with useful tips
+	- Were will this sit
+	- Save websites with useful tips / links
 
 - Picture wheel for adventures page??
   - Horizontal / Vertical
   - Interactive?
+  - Hover enlarge
 
 - Colors!
+  - Blue? Hazel? Turqoise? Gray?
 
 - Styling:
 	- Conventions
@@ -48,3 +50,5 @@ Goals:
 - Express my love of adventure, sport and the outdoors
 - Show my skills as a web developer
 - Expand on my web knowledge
+
+- Provide a place of constant updates to knowledge and github content
