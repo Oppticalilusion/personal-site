@@ -4,6 +4,16 @@ This respository was created as a way to expand on my skills in HTML | CSS | Jav
 <br>
 
 -------------------------------------------------------------------------------------
+March 9th, 2021
+
+Welcome back! Been a minute, lets get this thing rolling?
+	Look at steps below and see what is still viable, worth it.
+	Add connection to The Board.
+
+CSS haha
+Update and work on simplicity
+
+-------------------------------------------------------------------------------------
 Next Steps:
 
 - Img Compression
